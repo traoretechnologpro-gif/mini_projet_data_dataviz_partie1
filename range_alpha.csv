@@ -1,0 +1,188 @@
+ID,airport_name,type,country,lat,long,elevation,service
+BF-0002,Loumana Airport,closed,BF,10.567,-5.35,1148.0,no
+CI-0001,Assouindé Airport,small_airport,CI,5.17544,-3.47049,23.0,no
+CI-0002,Cosrou Airport,small_airport,CI,5.3156,-4.6459,732.0,no
+CI-0004,Alassane Ouattara Helipad,heliport,CI,5.32812,-3.97654,732.0,no
+CI-0006,Ferkessédougou Airport,closed,CI,9.592774,-5.23344,1102.0,no
+CI-0007,Bongouanou Airport,closed,CI,6.648528,-4.20703,705.0,no
+DBBB,Cotonou Cadjehoun International Airport,large_airport,BJ,6.35723,2.38435,19.0,yes
+DBBC,Bohicon/Cana Airport,small_airport,BJ,7.125417,2.046806,548.0,no
+DBBD,Djougou Airport,small_airport,BJ,9.69208333333,1.63777777778,1480.0,no
+DBBK,Kandi Airport,small_airport,BJ,11.14479,2.940381,951.0,no
+DBBR,Bembereke Airport,small_airport,BJ,10.27409,2.697082,1188.0,no
+DFCA,Kaya Airport,small_airport,BF,13.077361,-1.100278,984.0,no
+DFCB,Barsalogho Airport,small_airport,BF,13.4,-1.067,1083.0,no
+DFCD,Didyr Airport,small_airport,BF,12.55,-2.617,958.0,no
+DFCE,Batie Airport,small_airport,BF,9.883000373840332,-2.9170000553131104,984.0,no
+DFCG,Kongoussi Airport,small_airport,BF,13.317,-1.533,1056.0,no
+DFCJ,Djibo Airport,small_airport,BF,14.125,-1.624722,1001.0,no
+DFCK,Koudougou Airport,small_airport,BF,12.267,-2.4,1001.0,no
+DFCL,Leo Airport,small_airport,BF,11.1,-2.1,1181.0,no
+DFCM,Manga Airport,small_airport,BF,11.665351,-1.042542,820.0,no
+DFCU,Gourcy Airport,small_airport,BF,13.199999809265137,-2.367000102996826,1050.0,no
+DFEA,Boulsa Airport,small_airport,BF,12.65,-0.567,984.0,no
+DFEB,Bogande Airport,small_airport,BF,12.983,-0.167,984.0,no
+DFEC,Komin-Yanga Airport,small_airport,BF,11.699999809265137,0.1500000059604644,1116.0,no
+DFED,Diapaga Airport,small_airport,BF,12.060324,1.784631,951.0,no
+DFEE,Dori Airport,small_airport,BF,14.021638,-0.068207,925.0,no
+DFEF,Fada N'gourma Airport,small_airport,BF,12.033,0.35,1011.0,no
+DFEG,Gorom-Gorom Airport,small_airport,BF,14.454174,-0.218644,935.0,no
+DFEK,Koupela Airport,small_airport,BF,12.166999816894531,-0.3000000119209289,902.0,no
+DFEL,Kantchari Airport,small_airport,BF,12.464046,1.492939,879.0,no
+DFER,Arly Airport,small_airport,BF,11.597,1.483,761.0,no
+DFOA,Dano Airport,small_airport,BF,11.133,-3.067,935.0,no
+DFOB,Banfora Airport,small_airport,BF,10.688861,-4.727726,984.0,no
+DFOD,Dedougou Airport,small_airport,BF,12.459,-3.49,984.0,no
+DFOG,Gaoua Airport,small_airport,BF,10.384059,-3.163454,1099.0,no
+DFOH,Houndé Airport,small_airport,BF,11.491211,-3.512817,1063.0,no
+DFOO,Bobo Dioulasso Airport,large_airport,BF,11.1601,-4.33097,1511.0,yes
+DFOU,Diebougou Airport,small_airport,BF,10.95,-3.25,984.0,no
+DFOY,Aribinda Airport,small_airport,BF,14.2170000076,-0.883000016212,1122.0,no
+DGAA,Kotoka International Airport,large_airport,GH,5.605189800262451,-0.1667860001325607,205.0,yes
+DGAH,Ho Airport,medium_airport,GH,6.579691,0.532547,356.0,yes
+DIAO,Aboisso Airport,small_airport,CI,5.461944,-3.234722,95.0,no
+DIAP,Félix-Houphouët-Boigny International Airport,large_airport,CI,5.26139,-3.92629,21.0,yes
+DIAU,Abengourou Airport,small_airport,CI,6.71556,-3.47028,676.0,no
+DIBC,Bocanda Airport,small_airport,CI,7.033,-4.533,427.0,no
+DIBI,Boundiali Airport,small_airport,CI,9.540571,-6.469831,1286.0,no
+DIBK,Bouaké Airport,medium_airport,CI,7.7388,-5.07367,1230.0,yes
+DIBN,Bouna Airport,small_airport,CI,9.255556,-3.033333,1148.0,no
+DIDB,Dabou Airport,small_airport,CI,5.351385,-4.403458,141.0,no
+DIDK,Dimbokro Airport,small_airport,CI,6.65167,-4.64056,344.0,no
+DIDL,Daloa Airport,medium_airport,CI,6.79281,-6.47319,823.0,no
+DIGA,Gagnoa Airport,small_airport,CI,6.102855,-5.986809,732.0,no
+DIGL,Guiglo Airport,small_airport,CI,6.534711,-7.526847,722.0,no
+DIKO,Korhogo Airport,medium_airport,CI,9.38718,-5.55666,1214.0,yes
+DIMN,Man Airport,medium_airport,CI,7.27207,-7.58736,1089.0,no
+DITM,Mahana Airport,small_airport,CI,8.2934,-7.674,1583.0,no
+DMDM,Muhammadu Buhari International Cargo Airport,small_airport,NG,11.94411,11.80845,1250.0,no
+DN51,Ajaokuta Airport,small_airport,NG,7.457871,6.460837,620.0,no
+DN53,Kaduna Old Airport,small_airport,NG,10.598899841308594,7.448709964752197,2126.0,no
+DN54,Bajoga Northeast Airport,small_airport,NG,10.919899940490724,11.50119972229004,1000.0,no
+DN55,Eket Airport,small_airport,NG,4.642841,7.949139,47.0,no
+DN56,Escravos Airport,small_airport,NG,5.61673,5.188485,10.0,no
+DNAI,Akwa Ibom International Airport,medium_airport,NG,4.8725,8.093,170.0,yes
+DNAK,Akure Airport,medium_airport,NG,7.246739864349365,5.3010101318359375,1100.0,yes
+DNAN,Chinua Achebe International Airport,small_airport,NG,6.267167,6.871333,210.0,yes
+DNAS,Asaba International Airport,large_airport,NG,6.204167,6.665278,305.0,yes
+DNBB,Bebi Airport,small_airport,NG,6.6215,9.319001,919.0,no
+DNBE,Benin Airport,medium_airport,NG,6.316979885101318,5.599500179290772,258.0,yes
+DNBI,Bida Airport,small_airport,NG,9.102856,6.01475,450.0,no
+DNBY,Bayelsa International Airport,medium_airport,NG,4.95759,6.203327,67.0,yes
+DNCA,Margaret Ekpo International Airport,medium_airport,NG,4.976019859313965,8.347200393676758,210.0,yes
+DNDS,Dutse International Airport,small_airport,NG,11.795131,9.301164,1365.0,no
+DNEN,Akanu Ibiam International Airport,large_airport,NG,6.473718,7.560463,466.0,yes
+DNFB,Finima Bonny Airport,small_airport,NG,4.40481,7.180867,652.5,no
+DNFD,Forçados Terminal Airport,small_airport,NG,5.355,5.349002,11.0,no
+DNGO,Gombe Lawanti International Airport,medium_airport,NG,10.298889,10.9,1590.0,yes
+DNGU,Gusau Airport,medium_airport,NG,12.17286,6.696136,1520.0,no
+DNIB,Ibadan Airport,medium_airport,NG,7.362460136413574,3.97832989692688,725.0,yes
+DNIL,General Tunde Idiagbon International Airport,large_airport,NG,8.44021,4.49392,1126.0,yes
+DNJA,Jalingo Airport,small_airport,NG,8.901997,11.283454,685.0,no
+DNKA,Kaduna International Airport,large_airport,NG,10.696,7.32011,2073.0,yes
+DNKN,Mallam Aminu Kano International Airport,large_airport,NG,12.045613,8.523566,1562.0,yes
+DNMA,Maiduguri International Airport,large_airport,NG,11.854163,13.080702,1099.0,yes
+DNMK,Makurdi Airport,medium_airport,NG,7.70388,8.61394,371.0,yes
+DNMM,Murtala Muhammed International Airport,large_airport,NG,6.57737,3.32116,135.0,yes
+DNMN,Minna Airport,medium_airport,NG,9.652170181274414,6.462259769439697,834.0,no
+DRRC,Dogondoutchi Airport,small_airport,NE,13.663003,4.099674,961.0,no
+DRRD,Dosso Airport,small_airport,NE,13.049743,3.223241,738.0,no
+DRRG,Gaya Airport,small_airport,NE,11.890026,3.428024,662.0,no
+DRRI,Bilma Airport,small_airport,NE,18.68670082092285,12.91919994354248,1715.0,no
+DRRM,Maradi Airport,medium_airport,NE,13.5025,7.12675,1240.0,no
+DRRN,Diori Hamani International Airport,large_airport,NE,13.4815,2.18361,732.0,yes
+DRRP,La Tapoa Airport,small_airport,NE,12.484498,2.398452,722.0,no
+DRZA,Mano Dayak International Airport,medium_airport,NE,16.966,8.00011,1657.0,no
+DRZD,Dirkou Airport,small_airport,NE,18.963931,12.864132,1273.0,no
+DRZF,Diffa Airport,small_airport,NE,13.3729,12.6267,994.0,no
+DRZG,Goure Airport,small_airport,NE,13.890296,10.177106,1378.0,no
+DRZI,Iferouane Airport,small_airport,NE,19.066198,8.41496,2162.0,no
+DRZL,Arlit Airport,small_airport,NE,18.7903995514,7.36595010757,1443.0,no
+DRZM,Maine-Soroa Airport,small_airport,NE,13.2055,12.0323,944.0,no
+DXAK,Akpaka Airport,small_airport,TG,7.583,1.117,689.0,no
+DXDP,Djangou Airport,small_airport,TG,10.800417,0.242372,886.0,no
+DXKP,Kolokope Airport,small_airport,TG,7.803451,1.295966,591.0,no
+DXXX,Lomé–Tokoin International Airport,large_airport,TG,6.16561,1.25451,72.0,yes
+GA1A,Kayes Airport,small_airport,ML,14.431300163269045,-11.43970012664795,161.0,no
+GAAO,Ansongo Airport,small_airport,ML,15.700633,0.494052,853.0,no
+GABD,Bandiagara Airport,small_airport,ML,14.336931,-3.609778,1312.0,no
+GABF,Bafoulabé Airport,small_airport,ML,13.80694,-10.84779,380.0,no
+GABG,Bougouni Airport,small_airport,ML,11.441892,-7.506888,1139.0,no
+GABR,Bourem Airport,small_airport,ML,17.0262,-0.4063,941.0,no
+GABS,Modibo Keita International Airport,large_airport,ML,12.5335,-7.94994,1247.0,yes
+GADA,Dioila Airport,small_airport,ML,12.511918,-6.801277,1050.0,no
+GADZ,Douentza Airport,small_airport,ML,15.003552,-2.919188,984.0,no
+GAFD,Faladie Airport,small_airport,ML,13.15064,-8.333459,1115.0,no
+GAGM,Goundam Airport,small_airport,ML,16.358426,-3.604536,866.0,no
+GAGO,Gao International Airport,medium_airport,ML,16.248466,-0.005389,870.0,yes
+GAKA,Kenieba Airport,small_airport,ML,12.839046,-11.253397,449.0,no
+GAKL,Kidal Airport,small_airport,ML,18.433001,1.417,1496.0,no
+GAKN,Kolokani Airport,small_airport,ML,13.523992,-8.045983,1457.0,no
+GAKO,Koutiala Airport,closed,ML,12.351048,-5.429471,1240.0,no
+GAKT,Kita Airport,closed,ML,13.067,-9.483,1122.0,no
+GAKY,Kayes Dag Dag Airport,medium_airport,ML,14.482521,-11.399335,164.0,yes
+GAMB,Mopti Airport,medium_airport,ML,14.5128,-4.07956,906.0,yes
+GAMK,Menaka Airport,small_airport,ML,15.929102,2.346997,899.0,no
+GH-0001,Kpong Airfield,small_airport,GH,6.114864,0.057761,89.0,no
+GH-0002,Ajena Airstrip,small_airport,GH,6.322619,0.087893,485.0,no
+GH-0004,Ghana Police Headquarters Heliport,heliport,GH,5.571424,-0.187866,553.0,no
+GH-0006,Anglogold Ashanti Obuasi Mine Helipad,heliport,GH,6.171862,-1.693507,553.0,no
+GH-0009,Komfo Anokye Hospital Helipad,heliport,GH,6.695823,-1.627837,553.0,no
+GN-0001,Kiniéro Airport,small_airport,GN,10.42242,-9.77592,1375.0,no
+GN-0003,Loila Airport,small_airport,GN,10.784886,-8.868887,1242.0,no
+GO66,Dodji Airport,small_airport,SN,15.543899536132812,-14.95829963684082,66.0,no
+GOBD,Blaise Diagne International Airport,large_airport,SN,14.670878,-17.072829,290.0,yes
+GODK,Kolda Airport,small_airport,SN,12.898604,-14.968322,121.0,no
+GOGS,Cap Skirring Airport,medium_airport,SN,12.39533,-16.748,52.0,yes
+GOOG,Linguère Airport,small_airport,SN,15.402134,-15.080629,66.0,no
+GOOK,Kaolack Airport,medium_airport,SN,14.146900177001951,-16.051300048828125,26.0,no
+GOOY,Léopold Sédar Senghor International Airport,large_airport,SN,14.742337,-17.479222,85.0,yes
+GOTB,Bakel Airport,medium_airport,SN,14.847299575805664,-12.468299865722656,98.0,no
+GOTK,Kédougou Airport,medium_airport,SN,12.57229995727539,-12.22029972076416,584.0,no
+GUBE,Beyla Airport,small_airport,GN,8.697222,-8.713889,2190.0,no
+GUCY,Ahmed Sékou Touré International Airport,large_airport,GN,9.57689,-13.612,72.0,yes
+GUFA,Fria Airport,small_airport,GN,10.3506,-13.5692,499.0,no
+GUFH,Faranah Airport,small_airport,GN,10.0354995728,-10.7698001862,1476.0,no
+GUGO,Gbenko Airport,small_airport,GN,9.24284,-9.29997,2133.0,no
+GUKR,Kawass Airport,small_airport,GN,10.657484,-14.532337,36.0,no
+GUKU,Kissidougou Airport,small_airport,GN,9.1605596542358,-10.124400138855,1808.0,no
+GUMA,Macenta Airport,small_airport,GN,8.481456,-9.526048,1690.0,no
+GUOK,Boké Baralande Airport,small_airport,GN,10.9658,-14.2811,164.0,no
+GUXN,Kankan Airport,closed,GN,10.394,-9.3038,1267.0,no
+GXUD,Kankan Airport,small_airport,GN,10.448438,-9.228757,1234.0,no
+KTC,Katiola Airport,small_airport,CI,8.132858,-5.06487,1026.0,no
+ML-0001,Manantali Bengassi Airport,small_airport,ML,13.2556,-10.5043,538.0,no
+ML-0004,Léré Heliport,heliport,ML,15.73166,-4.90416,883.0,no
+ML-0005,Ansongo Heliport,heliport,ML,15.705131,0.489117,833.0,no
+ML-0006,Aguelhok Heliport,heliport,ML,19.463672,0.865674,1391.0,no
+ML-0007,Ménaka Heliport,heliport,ML,15.930603,2.376193,947.0,no
+ML-0008,Ke-Macina Airport,closed,ML,13.966876,-5.382999,902.0,no
+ML-0009,Markala Airport,closed,ML,13.7,-6.067,1251.0,no
+ML-0010,Morila Airport,closed,ML,11.912778,-6.2775,1053.0,no
+NE-0002,Kourou Arkenné Airfield,small_airport,NE,22.782036,14.024777,1117.0,no
+NE-0003,Madama Military Base,small_airport,NE,21.951146,13.650711,1808.0,no
+NE-0004,Fachi Airport,small_airport,NE,18.1016,11.56553,1117.0,no
+NE-0005,Birni-N'Konni Airport,closed,NE,13.8015,5.24236,846.0,no
+NG-0001,Agbara-Otor Airport,closed,NG,5.538911,6.088,43.0,no
+NG-0002,Kainji Air Base,small_airport,NG,9.895279,4.484224,689.0,no
+NG-0007,Lokoja Airstrip,small_airport,NG,7.801829,6.582793,320.0,no
+NG-0010,Mazi Alex Otti Heliport,heliport,NG,5.38936,7.90098,652.5,no
+NG-0012,Agip Heliport,heliport,NG,4.7992,6.97343,652.5,no
+NG-0013,Exxon Mobil Aba Road Estate Heliport,heliport,NG,4.86782,7.08422,652.5,no
+NG-0014,Daura Heliport,heliport,NG,13.05149,8.30958,652.5,no
+NG-0016,June 12 Cultural Centre Abeokuta Helipad,heliport,NG,7.1356,3.35426,652.5,no
+NG-0017,Jaji Airport,small_airport,NG,10.833636,7.538232,2244.0,no
+NG-0020,Aso Rock Heliport,heliport,NG,9.060744,7.515767,652.5,no
+NG-0021,Maryland Heliport,heliport,NG,6.572639,3.366441,95.0,no
+NG-0022,Moshood Abiola National Stadium Helipad,heliport,NG,9.037663,7.450715,652.5,no
+NG-0023,AMSH Helipad,heliport,NG,7.601521,5.307133,652.5,no
+NG-0024,Bacita Airstrip,small_airport,NG,9.0421,4.9188,489.0,no
+NG-0025,Forçados Terminal Heliport,heliport,NG,5.35986,5.35239,11.0,no
+NG-0026,Kainji Airfield,small_airport,NG,9.8927,4.6133,690.0,no
+NG-0027,Banana Island Helipad,heliport,NG,6.455749,3.460081,10.0,no
+NG-BCU,Bauchi Airport,small_airport,NG,10.294402,9.816672,1998.0,no
+SN-0002,Abéné Airfield,closed,SN,13.0101,-16.7213,85.0,no
+SN-0003,Djilor Pout Pout Airport,small_airport,SN,14.0866,-16.6659,85.0,no
+SN-0005,Diourbel Airfield,closed,SN,14.651477,-16.187325,85.0,no
+SN-0007,Eknes Airfield,closed,SN,14.729636,-17.237978,85.0,no
+SN-0008,Kolda Airport,closed,SN,12.880881,-14.954152,85.0,no

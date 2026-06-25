@@ -1,0 +1,38 @@
+ID,airport_name,type,country,lat,long,elevation,service
+BJ-0001,Tourou International Airport,small_airport,BJ,9.391186,2.50731,1197.0,no
+DBBB,Cotonou Cadjehoun International Airport,large_airport,BJ,6.35723,2.38435,19.0,yes
+DFFD,Ouagadougou Thomas Sankara International Airport,large_airport,BF,12.3532,-1.51242,1037.0,yes
+DGAA,Kotoka International Airport,large_airport,GH,5.605189800262451,-0.1667860001325607,205.0,yes
+DGLE,Yakubu Tali International Airport,large_airport,GH,9.553909,-0.86606,553.0,yes
+DGSI,Prempeh I International Airport,large_airport,GH,6.71456,-1.59082,942.0,yes
+DIAP,Félix-Houphouët-Boigny International Airport,large_airport,CI,5.26139,-3.92629,21.0,yes
+DIYO,Yamoussoukro International Airport,large_airport,CI,6.90317,-5.36558,699.0,no
+DMDM,Muhammadu Buhari International Cargo Airport,small_airport,NG,11.94411,11.80845,1250.0,no
+DNAA,Nnamdi Azikiwe International Airport,large_airport,NG,9.00679,7.26317,1123.0,yes
+DNAI,Akwa Ibom International Airport,medium_airport,NG,4.8725,8.093,170.0,yes
+DNAN,Chinua Achebe International Airport,small_airport,NG,6.267167,6.871333,210.0,yes
+DNAS,Asaba International Airport,large_airport,NG,6.204167,6.665278,305.0,yes
+DNBC,Sir Abubakar Tafawa Balewa Bauchi State International Airport,large_airport,NG,10.482833,9.744,1965.0,yes
+DNBY,Bayelsa International Airport,medium_airport,NG,4.95759,6.203327,67.0,yes
+DNCA,Margaret Ekpo International Airport,medium_airport,NG,4.976019859313965,8.347200393676758,210.0,yes
+DNDS,Dutse International Airport,small_airport,NG,11.795131,9.301164,1365.0,no
+DNEN,Akanu Ibiam International Airport,large_airport,NG,6.473718,7.560463,466.0,yes
+DNGO,Gombe Lawanti International Airport,medium_airport,NG,10.298889,10.9,1590.0,yes
+DNIL,General Tunde Idiagbon International Airport,large_airport,NG,8.44021,4.49392,1126.0,yes
+DNIM,Sam Mbakwe International Cargo Airport,medium_airport,NG,5.42706,7.20603,373.0,yes
+DNKA,Kaduna International Airport,large_airport,NG,10.696,7.32011,2073.0,yes
+DNKN,Mallam Aminu Kano International Airport,large_airport,NG,12.045613,8.523566,1562.0,yes
+DNMA,Maiduguri International Airport,large_airport,NG,11.854163,13.080702,1099.0,yes
+DNMM,Murtala Muhammed International Airport,large_airport,NG,6.57737,3.32116,135.0,yes
+DNPO,Port Harcourt International Airport,large_airport,NG,5.01549,6.94959,87.0,yes
+DNSO,Sadiq Abubakar III International Airport,large_airport,NG,12.915729,5.207547,1010.0,yes
+DRRN,Diori Hamani International Airport,large_airport,NE,13.4815,2.18361,732.0,yes
+DRZA,Mano Dayak International Airport,medium_airport,NE,16.966,8.00011,1657.0,no
+DXNG,Niamtougou International Airport,large_airport,TG,9.766675,1.090944,1515.0,no
+DXXX,Lomé–Tokoin International Airport,large_airport,TG,6.16561,1.25451,72.0,yes
+GABS,Modibo Keita International Airport,large_airport,ML,12.5335,-7.94994,1247.0,yes
+GAGO,Gao International Airport,medium_airport,ML,16.248466,-0.005389,870.0,yes
+GOBD,Blaise Diagne International Airport,large_airport,SN,14.670878,-17.072829,290.0,yes
+GOOY,Léopold Sédar Senghor International Airport,large_airport,SN,14.742337,-17.479222,85.0,yes
+GUCY,Ahmed Sékou Touré International Airport,large_airport,GN,9.57689,-13.612,72.0,yes
+NG-0005,Sir Ahmadu Bello International Airport,large_airport,NG,12.479048,4.369132,775.0,yes
